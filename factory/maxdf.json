@@ -1,0 +1,9 @@
+{
+	"name": "maxdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "90191696-a32d-46b6-be56-00fabaebeddd",
+		"tenantId": "d10e1139-c939-4b16-90fb-c609d9f320c8"
+	}
+}
